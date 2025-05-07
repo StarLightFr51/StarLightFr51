@@ -1,5 +1,11 @@
-## Hi there 👋
+### Hi there 👋
 
+## My Project and learning
+# Currently working on a Unity 3D Game
+# Currently learning on C#
+
+## School
+# Oemichen Châlons-En-Champagne 51000 France
 <!--
 **StarLightFr51/StarLightFr51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
